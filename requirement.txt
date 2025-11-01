@@ -1,0 +1,8 @@
+REQUIREMENTS_TXT = """
+fastapi==0.115.5
+uvicorn[standard]==0.32.0
+sqlmodel==0.0.22
+pydantic==2.9.2
+python-dotenv==1.0.1
+google-generativeai==0.8.3
+"""
